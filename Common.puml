@@ -19,7 +19,7 @@ skinparam wrapWidth 200
 skinparam maxMessageSize 150
 
 skinparam rectangle {
-    StereotypeFontSize 12
+    StereotypeFontSize 0
 }
 
 skinparam Arrow {
